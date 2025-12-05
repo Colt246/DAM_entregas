@@ -1,6 +1,6 @@
 package proyecto_02;
 
-import ciudad.recursos.MyScanner;
+import proyecto_02.clases.MyScanner;
 import proyecto_02.clases.Taller;
 
 public class Main {
